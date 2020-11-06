@@ -1,0 +1,113 @@
+In Search of Metric for Managing Architectural Technical Debt
+Towards an Architectural Debt Index
+Identifying and Quantifying Architectural Debt
+A Case Study in Locating the Architectural Roots of Technical Debt
+An Empirical Investigation of Modularity Metrics for Indicating Architectural Technical Debt
+Estimating the Size, Cost, and Types of Technical Debt
+Mitigating Technical and Architectural Debt with Sonargraph
+An Empirically Developed Method to Aid: Decisions on Architectural Technical Debt Refactoring: AnaConDebt
+An Open Tool for Assisting in Technical Debt Management
+A Proposed Model-Driven Approach to Manage Architectural Technical Debt Life Cycle
+Exploring the Relationship between Software Modularity and Technical Debt
+A Formal Approach to Technical Debt Decision Making
+Architectural Technical Debt Identification based on Architecture Decisions and Change Scenarios
+Practical Technical Debt Discovery by Matching Patterns in Assessment Graph
+Guiding Flexibility Investment in Agile Architecting
+Technical Debt Management with Genetic Algorithms
+Exploring Software Supply Chains From a Technical Debt Perspective
+DV8: Automated Architecture Analysis Tool Suites
+AnaconDebt: A Tool to Assess and Track Technical Debt
+Compiling Static Software Metrics for Reliability and Maintainability from GitHub Repositories
+A Case Study of the Effects of Architecture Debt on Software Evolution Effort
+Minimizing Refactoring Effort through Prioritization of Classes based on Historical, Architectural and Code Smell Information
+Exploring Software Supply Chains From a Technical Debt Perspective
+Identifying Scalability Debt in Open Systems
+Technical debt and system architecture: The impact of coupling on defect-related activity
+A semi-automated framework for the identification and estimation of Architectural Technical Debt: A comparative case-study on the modularization of a software component
+Identifying and Prioritizing Architectural Debt Through Architectural Smells: A Case Study in a Large Software Company
+Managing Technical Debt with the SQALE Method
+Assessing Code Smell Interest Probability: A Case Study
+Sustainability Debt: A portfolio-based approach for evaluating sustainability requirements in architectures
+Metrics for software quality in automated production systems as an indicator for technical debt
+Conciliating Model-Driven Engineering with Technical Debt Using a Quality Framework
+Technical Debt indication in PLC Code for automated Production Systems: Introducing a Domain Specific Static Code Analysis Tool  
+Technical debt as an external software attribute
+DebtFlag: Technical debt management with a development environment integrated tool
+Technical Debt Interest Assessment: from Issues to Project
+An Empirical Model of Technical Debt and Interest
+A Portfolio Approach to Technical Debt Management
+Tracking technical debt - An exploratory case study
+Assessing Technical Debt in Automated Tests with CodeScene
+TETRA, as a set of techniques and tolls for calculating technical debt principal and interest
+Measuring the principal of defect debt
+Designite - A Software Design Quality Assessment Tool
+Using Analytics to Quantify the Interest of Self-Admitted Technical Debt
+Defining the Decision Factors for Managing Defects: A Technical Debt Perspective
+From Lasagna to Spaghetti, A Decision Model to Manage Defect Debt
+CloudMTD: Using real options to manage technical debt in cloud-based service selection
+Towards assessing the Technical Debt of Undesired Software Behaviors in Design Patterns
+A proposed sizing model for managing 3rd party Code Technical Debt
+Rework Estimation of Self-admitted Technical Debt
+When-to-release decisions in consideration of technical debt
+Technical Debt Principal Assessment through Structural Metrics
+Using Real Options to Manage Technical Debt in Requirements Engineering
+Prioritizing Design Debt Investment Opportunities
+Challenges in assessing Technical Debt based on Dynamic Runtime Data
+A Framework for Managing Interest in Technical Debt: An Industrial Validation
+VisMinerTD: An open source tool to support the monitoring of the technical debt evolution using software visualization
+Estimating the principal of an application's technical debt
+Debt-Prone Bugs: Technical Debt in Software Maintenance
+What is the value of your software?
+Leveraging SecDevOps to Tackle the Technical Debt Associated with Cyber Security Attack Tactics
+Understanding the impact of technical debt on the capacity and velocity of teams and organizations: Viewing team and organization capacity as a portfolio of real options
+Technical debt in procedural model transformation languages
+Evaluating Technical Debt in Cloud-based Architectures using Real Options
+A novel approach to measure confidence and uncertainty in assurance cases
+Identifying and Estimating Technical Debt for Service Composition in SaaS Cloud
+Software Architecture Social Debt: Managing the Incommunicability Factor
+Systematic Elaboration of Compliance Requirements Using Compliance Debt and Portfolio Theory
+Preventing Technical Debt for Automated Production System Maintenance Using Systematic Change Effort Estimation with Considering Contingent Cost
+To Adapt or Not to Adapt? Technical Debt and Learning Driven Self-Adaptation for Managing Runtime Performance
+Recommending when design technical debt should be self-admitted
+Managing Technical Debt in Database Schemas of Critical Software
+Evaluating Quality Issues in BPMN Models by Extending a Technical Debt Software Platform
+A Threshold Based Approach to Technical Debt
+Lessons Learned from the ProDebt Research Project on Planning Technical Debt Strategically
+The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction
+Towards a prioritization of code debt: A code smell Intensity Index
+A benchmarking-based model for technical debt calculation
+Managing Technical Debt in Software Projects Using Scrum: An Action Research
+Technical debt reduction using search based automated refactoring
+Improving object-oriented design quality: A portfolio- and measurement-based approach
+A framework for estimating interest on technical debt by monitoring developer activity related to code comprehension
+Estimating the breaking point for technical debt
+JCaliper: Search-Based Technical Debt Management
+Early evaluation of technical debt impact on maintainability
+Impacts of agile requirements documentation debt on software projects: A retrospective study
+Towards an open-source tool for measuring and visualizing the interest of technical debt
+Evolution of Technical Debt: An Exploratory Study
+Towards proactive management of technical debt by software metrics
+A Multi-Agent Elasticity Management Based On Multi-Tenant Debt Exchanges
+Security risk assessment and management as technical debt
+On the value of a prioritization scheme for resolving Self-admitted technical debt
+Requirements Prioritization in Agile: Use of Planning Poker for Maximizing Return on Investment
+Quantifying and evaluating the technical debt on mobile cloud-based service level
+Technical Debt and the Reliability of Enterprise Software Systems: A Competing Risks Analysis
+Prioritizing technical debt in database normalization using portfolio theory and data quality metrics
+Design debt prioritization: A design best practice-based approach
+Towards a Model for Optimizing Technical Debt in Software Products
+Impacts of design pattern decay on system quality
+The Magnificent Seven: Towards a Systematic Estimation of Technical Debt Interest
+Towards Surgically-Precise technical Debt Estimation: Early Results and Research Roadmap
+Comparing Maintainability Index, SIG Method, and SQALE for Technical Debt Identification
+Technical Debt Indexes Provided by Tools: a Preliminary Discussion
+Comparing four approaches for TD Identification
+On the suitability of a Portfolio-Based Design Improvement Approach
+On the Accuracy of SonarQube Technical Debt Remediation Time
+Formative Evaluation of a Tool for Managing Software Quality
+The Technical Debt Management Tools Comparison
+Applying Metrics to Identify and Monitor Technical Debt Items during Software Evolution
+The correspondence between software quality models and technical debt estimation approaches
+Towards a Holistic Definition of Requirements Debt
+Technical debt interest assessment: From issues to project
+Comparing the accumulation of technical debt between two applications developed with Spring Web MVC and Apache Struts 2
