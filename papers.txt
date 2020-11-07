@@ -1,2 +1,0 @@
-In Search of Metric for Managing Architectural Technical Debt
-An Empirical Investigation of Modularity Metrics for Indicating Architectural Technical Debt

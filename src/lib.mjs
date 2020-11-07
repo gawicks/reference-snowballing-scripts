@@ -1,4 +1,7 @@
 import fetch from 'node-fetch';
+import Fuse from 'fuse.js'
+import { promises as fs } from 'fs';
+import beautify from 'json-beautify';
 
 const msAcademicBaseURL = 'https://academic.microsoft.com/api';
 const msAcademicSearchURL = `${msAcademicBaseURL}/search`;
@@ -31,15 +34,30 @@ export async function get(id) {
     return buildAPIResponse(await response.json());
 }
 
-export function updateLine(progressText){
+export function updateMessage(message){
     process.stdout.clearLine();
     process.stdout.cursorTo(0);
-    process.stdout.write(progressText);
+    process.stdout.write(message);
 }
-export function printLine(text){
-    console.log(text);
+export function printMessage(message){
+    console.log(`\n${message}`);
 }
-
+export async function writeJSON(obj){
+    const out = beautify(obj, null, 2, 100);
+    await fs.writeFile('result.json', out);
+}
+export function buildIndex(list) {
+    const index = Fuse.createIndex(['title', 'abstract'], list);
+    fs.writeFile('fuse-index.json', JSON.stringify(index.toJSON()));
+    fs.writeFile('papers-meta.json', JSON.stringify(list));
+}
+export function deduplicate(arr) {
+    let deDup = [...new Set(arr)];
+    return deDup;
+}
+export function difference(arr, arrToRemove) {
+    return arr.filter(item => !arrToRemove.includes(item));
+}
 
 function buildQuery(query = "", queryExpression = "", limit = 1) {
     return {
